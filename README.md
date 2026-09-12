@@ -2,9 +2,6 @@
 
 An enterprise-grade, end-to-end MLOps production framework for real-time transaction fraud scoring, behavioral baseline profiling, cost-calibrated decision thresholding, LIME explainability, and cloud-native Kubernetes orchestration.
 
-> [!NOTE]
-> This public portfolio repository provides an architectural, operational, and observability overview of the system—demonstrating production CI/CD workflows, MLflow champion governance, microservice orchestration, dynamic KEDA autoscaling, and real-time Prometheus/Grafana telemetry—while keeping internal proprietary source algorithms private.
-
 ---
 
 ## 🏛️ System Architecture
